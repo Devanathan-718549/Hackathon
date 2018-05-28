@@ -12,10 +12,10 @@ Prerequisite
 
 Files
 -----
-*TD1.csv - contains the training data model used to train the machine learning application
-*Properties.ini - contains the path of training model data and user input data to be loaded & validation index
-*UserInput.csv - contains the user input data to be validated
-*Hackathon.py - contains the logic detect the claim provided  by the user is valid or not based on the KNN,LogisticRegression,LinearDiscriminantAnalysis,DecisionTreeClassifier,GaussianNB,SVC algorithm
+* TD1.csv - contains the training data model used to train the machine learning application
+* Properties.ini - contains the path of training model data and user input data to be loaded & validation index
+* UserInput.csv - contains the user input data to be validated
+* Hackathon.py - contains the logic detect the claim provided  by the user is valid or not based on the KNN,LogisticRegression,LinearDiscriminantAnalysis,DecisionTreeClassifier,GaussianNB,SVC algorithm
 
 Assumptions
 -----------
@@ -46,4 +46,4 @@ Working
 	
 Future Expansions
 -----------------
-*Creating a rest endpoint service on google cloud to accept the claim data as user input and process it via ml system to check if claim is fraud or non fraud	
+* Creating a rest endpoint service on google cloud to accept the claim data as user input and process it via ml system to check if claim is fraud or non fraud	
