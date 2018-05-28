@@ -19,15 +19,15 @@ Files
 
 Assumptions
 -----------
-.) Both Training data file (TD1.csv) column length and UserInput file (USerInut.csv) column length should be same length and in the same format
-.) Training Data Description
+ .) Both Training data file (TD1.csv) column length and UserInput file (USerInut.csv) column length should be same length and in the same format
+ .) Training Data Description
 	.) Gender - 1 - Female, 2 - Male
 	.)Age - age of the person admitted
 	.) Amount - amounts divided by 1 lakh eg. 50000 represented as 0.5;
 	.)ClaimType- contains values like Maternity(1),Accident(3)
 	.)InsuranceClass - Classified as 1,3 based on the coverage he has applied eg)1 lakh coverage, 5 lakh coverage
 	.)Class - 1- Not Fraud , 0 - Fraud
-.) The number of columns in both Training data and User input is dynamic except the last column should be our deciding result i.e target attribute
+ .) The number of columns in both Training data and User input is dynamic except the last column should be our deciding result i.e target attribute
 
 Working
 -------
