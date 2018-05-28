@@ -19,8 +19,8 @@ Files
 
 Assumptions
 -----------
- .) Both Training data file (TD1.csv) column length and UserInput file (USerInut.csv) column length should be same length and in the same format
- \n.) Training Data Description
+ * Both Training data file (TD1.csv) column length and UserInput file (USerInut.csv) column length should be same length and in the same format
+ *) Training Data Description
 	.) Gender - 1 - Female, 2 - Male
 	.)Age - age of the person admitted
 	.) Amount - amounts divided by 1 lakh eg. 50000 represented as 0.5;
