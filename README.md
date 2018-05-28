@@ -34,8 +34,8 @@ Working
 * Initially properties.ini file is loaded to fetch the file paths for training model and user input model . 
 	Contents in INI file
 	--------------------
-	*filePath - path to training data is provided here(TD1.csv)
-	*userInputFilePath - path to user input data is provided here(UserInput1.csv)
+	* filePath - path to training data is provided here(TD1.csv)
+	* userInputFilePath - path to user input data is provided here(UserInput1.csv)
 * Initialize the fetched training model data from TD1.csv datavalues to an array 
 * Initialize the fetched user input data from UserInput1.csv userInputArray to an array
 * Created training x and y using datavalues array
